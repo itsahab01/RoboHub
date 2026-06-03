@@ -1,16 +1,45 @@
-# React + Vite
+# RoboHub Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern frontend dashboard designed for a robotics equipment store.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project provides an interactive dashboard interface for managing and displaying robotics products. The dashboard focuses on delivering a clean user experience and modern design principles suitable for technology and robotics businesses.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Modern dashboard interface
+- Product management layout
+- Responsive design
+- Organized navigation components
+- Interactive user interface
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+View the live project here:
+https://robo-hub-iota.vercel.app/
+
+## Technologies Used
+
+- React.js
+- JavaScript
+- CSS
+- Visual Studio Code
+
+## Running the Project
+To run this project on your local machine:
+Clone the repository from GitHub.
+Open the project in Visual Studio Code.
+Open the terminal and install all required packages.
+Start the development server.
+After the server starts, open the generated local URL in your browser to access the dashboard.
+For Vite-based React applications, the default local address is usually:
+http://localhost:5173
+
+## Developer
+
+- Sahab Hussain
+
+## Purpose
+
+The project was created as a frontend development practice project to demonstrate React development skills and dashboard design concepts for robotics-related businesses.
