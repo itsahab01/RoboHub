@@ -28,12 +28,12 @@ https://robo-hub-iota.vercel.app/
 
 ## Running the Project
 To run this project on your local machine:
-Clone the repository from GitHub.
-Open the project in Visual Studio Code.
-Open the terminal and install all required packages.
-Start the development server.
-After the server starts, open the generated local URL in your browser to access the dashboard.
-For Vite-based React applications, the default local address is usually:
+- Clone the repository from GitHub.
+- Open the project in Visual Studio Code.
+- Open the terminal and install all required packages.
+- Start the development server.
+- After the server starts, open the generated local URL in your browser to access the dashboard.
+- For Vite-based React applications, the default local address is usually:
 http://localhost:5173
 
 ## Developer
